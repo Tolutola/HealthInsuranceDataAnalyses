@@ -10,8 +10,8 @@ Preliminary exploratory data analyses revealed some really interesting trends:
 3) People less than 65 were twice pessimistic about their health (people’s attitude about their health don’t change much). 
 4) Across all categories, blacks faired at least 10% worse that whites and other races.
 5) Married people consistently better across all categories.
-6) Unexpected correlation between education and health: better by at least 1 percentage point and improved performance.
+6) Unexpected correlation between education and health: better by at least 1 percentage point as well as improved health outcome over time.
 
 Other results:
-(1)	Usupervised learning  identifies clusters of  demographic and influential factors that could account for the observed health outcomes
+(1)	Unsupervised learning  identifies clusters of  demographic and influential factors that could account for the observed health outcomes
 (2) A predictive model to estimate future health outcomes, given demographic factors and current health indicators.
