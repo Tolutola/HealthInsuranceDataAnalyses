@@ -8,7 +8,7 @@ Preliminary exploratory data analyses revealed some really interesting trends:
 1) In general people have a much lower perception of their health than their actual physical condtion suggests. This perception rarely changes over time.  
 2)The earlier years of the study show relatively better physical than mental health but that switched in the later years. 
 3) People less than 65 were twice pessimistic about their health (people’s attitude about their health don’t change much). 
-4) Across all categories, blacks faired at least 10% worse that whites and other races.
+4) Across all categories, blacks fared at least 10% worse that whites and other races.
 5) Married people consistently better across all categories.
 6) Unexpected correlation between education and health: better by at least 1 percentage point as well as improved health outcome over time.
 
